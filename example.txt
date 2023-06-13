@@ -1,1 +1,2 @@
 This file is created to teach students how to use git and github. 
+Hello world, we are learning git. 
